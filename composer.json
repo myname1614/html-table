@@ -1,0 +1,13 @@
+{
+    "name": "myname1614/html-table",
+    "description": "html grid",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "myname1614\\": "src/"
+        }
+    }
+}
